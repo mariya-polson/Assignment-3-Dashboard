@@ -51,6 +51,7 @@ main {
 }
 .menu .header p {
   font-size: 12px;
+  color: #ada9bf;
   font-weight: lighter;
   margin-top: 0px;
 }
@@ -89,6 +90,7 @@ main {
 }
 .menu li.have-children ul li a {
   font-size: 10px;
+  color: #ada9bf;
   margin: 0;
   padding: 0;
 }
